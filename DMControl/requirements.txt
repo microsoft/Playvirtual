@@ -17,4 +17,4 @@ kornia==0.4.1
 wandb
 tensorboard
 kornia
-numpy==1.19
+numpy==1.21.0
