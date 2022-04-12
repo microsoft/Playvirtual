@@ -1,4 +1,5 @@
-# PlayVirtual: Augmenting Cycle-Consistent Virtual Trajectories for Reinforcement Learning
+# PlayVirtual: Augmenting Cycle-Consistent Virtual Trajectories 
+for Reinforcement Learning
 
 This is the official implementation of *PlayVirtual* (accepted to NeurIPS 2021), which augments cycle-consistent virtual trajectories to enhance the data efficiency for RL feature representation learning.
 
