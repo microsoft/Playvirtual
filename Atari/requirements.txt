@@ -1,6 +1,6 @@
 gym==0.18.0
 atari-py
-torch==1.7.1
+torch==1.13.1
 torchelastic
 torchvision==0.8.2
 tensorboard==1.14.0
